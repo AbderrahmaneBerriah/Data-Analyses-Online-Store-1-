@@ -26,8 +26,12 @@ Visualizations
 Violin Plots: Showed distributions for each cluster's performance in Recency, Frequency, and Monetary Value.
 ![Violin Plot](https://github.com/user-attachments/assets/f9ca1341-8e16-455d-ad53-ef52d147a42a)
 
-Cluster Performance: Analyzed cluster behavior, focusing on key features, and plotted bar graphs for customer segment performance.
+Cluster Performance: Analyzed cluster behavior, focusing on key features
+
 ![Customers segmentation](https://github.com/user-attachments/assets/4693764c-e882-4a3b-9f3e-873cd3ad6c54)
+
+bar graphs for customer segment performance.
+
 ![Monthly sales trends](https://github.com/user-attachments/assets/01387d6a-9cdd-47ce-b3e0-9784be62c060)
 
 Conclusion
