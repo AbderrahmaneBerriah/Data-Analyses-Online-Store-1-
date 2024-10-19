@@ -8,6 +8,7 @@ Dataset: Online retail data, including purchase information such as product desc
 Data Cleaning: Removed invalid records, such as negative quantities, prices, and missing customer IDs. Non-standard stock codes were also filtered to maintain data integrity.
 
 RFM Analysis
+
 Recency: Calculated as the number of days since the customer's last purchase.
 Frequency: Counted the number of unique invoices per customer.
 Monetary Value: Total spending per customer, computed from the sum of invoice totals.
@@ -20,6 +21,7 @@ Cluster Labels: Assigned labels like Dormant, VIP, and Occasional based on clust
 Outlier Handling: Removed extreme outliers based on RFM features.
 
 Visualizations
+
 3D Scatter Plot: Displayed customer segmentation by RFM features.
 ![3D scatte Plot](https://github.com/user-attachments/assets/5825b0cd-217c-4b05-95f9-f9bfb91c69c7)
 
@@ -30,7 +32,7 @@ Cluster Performance: Analyzed cluster behavior, focusing on key features
 
 ![Customers segmentation](https://github.com/user-attachments/assets/4693764c-e882-4a3b-9f3e-873cd3ad6c54)
 
-bar graphs for customer segment performance.
+Bar graphs for customer segment performance.
 
 ![Monthly sales trends](https://github.com/user-attachments/assets/01387d6a-9cdd-47ce-b3e0-9784be62c060)
 
